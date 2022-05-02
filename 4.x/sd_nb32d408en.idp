@@ -1,0 +1,7 @@
+#bit_id: 10572 prod: Netscape Navigator lang: English os: Windows 95, 98, NT, or 2000 base: sd_nb32d408en.idp
+
+[Sites]
+0=ftp://ftp.netscape.com/pub/communicator/english/4.08/windows/windows95_or_nt/navigator_standalone/n32d408.exe
+
+[General]
+Product=Netscape Navigator 4.08 English

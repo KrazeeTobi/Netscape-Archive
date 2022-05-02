@@ -1,0 +1,7 @@
+#bit_id: 12401 prod: Netscape Communicator lang: English os: Windows 95, 98, NT, or 2000 base: sd_cc32d477en.idp
+
+[Sites]
+0=ftp://ftp.netscape.com/pub/communicator/english/4.77/windows/windows95_or_nt/complete_install/cc32d477.exe
+
+[General]
+Product=Netscape Communicator 4.77 English

@@ -1,0 +1,7 @@
+#bit_id: 10573 prod: Netscape Navigator lang: English os: Windows 3.1 base: sd_nb16d408en.idp
+
+[Sites]
+0=ftp://ftp.netscape.com/pub/communicator/english/4.08/windows/windows3.1/navigator_standalone/n16d408.exe
+
+[General]
+Product=Netscape Navigator 4.08 English

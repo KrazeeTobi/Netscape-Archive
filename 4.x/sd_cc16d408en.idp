@@ -1,0 +1,7 @@
+#bit_id: 10591 prod: Netscape Communicator lang: English os: Windows 3.1 base: sd_cc16d408en.idp
+
+[Sites]
+0=ftp://ftp.netscape.com/pub/communicator/english/4.08/windows/windows3.1/complete_install/cc16d408.exe
+
+[General]
+Product=Netscape Communicator 4.08 English

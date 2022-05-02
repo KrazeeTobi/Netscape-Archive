@@ -1,0 +1,7 @@
+#bit_id: 12327 prod: Netscape 6 lang: English os: Windows 95, 98, NT, or 2000 base: sd_b32d601en.idp
+
+[Sites]
+0=ftp://ftp.netscape.com/pub/netscape6/english/6.01/windows/win32/N6Setup.exe
+
+[General]
+Product=Netscape 6 6.01 English
